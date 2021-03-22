@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Rubble3
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: cc907103d80453f42802208ba762cf9d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: abedd6a87d4a75c44a8652f33136e53c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
